@@ -88,3 +88,11 @@ source devel/setup.bash
 ```sh
 roslaunch ur5_moveit_config demo.launch
 ```
+🔹 **執行 MoveIt! 主要啟動檔 in Rviz**：
+
+```sh
+# terminal 1
+roscore
+# terminal 2
+rosrun ur_test test_node
+```
