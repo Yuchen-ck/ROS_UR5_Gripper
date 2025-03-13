@@ -88,7 +88,7 @@ source devel/setup.bash
 ```sh
 roslaunch ur5_moveit_config demo.launch
 ```
-🔹 **執行 MoveIt! 主要啟動檔 in Rviz**：
+🔹 **啟動node 控制手臂**：
 
 ```sh
 # terminal 1
@@ -96,3 +96,5 @@ roscore
 # terminal 2
 rosrun ur_test test_node
 ```
+
+📌 Open Rviz and Gazebo 還有Bug需解決
