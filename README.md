@@ -91,10 +91,8 @@ roslaunch ur5_moveit_config demo.launch
 🔹 **啟動node 控制手臂**：
 
 ```sh
-# terminal 1
-roscore
-# terminal 2
 rosrun ur_test test_node
 ```
+## test_node: Rviz有顯示手臂跑隨機路徑，代表測試成功。
 
 📌 Open Rviz and Gazebo 還有Bug需解決
