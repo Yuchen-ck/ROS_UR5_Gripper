@@ -12,5 +12,6 @@
 3. **robotiq_gripper**  
    Repository: [GitHub - LearnRoboticsWROS/robotiq_description](https://github.com/LearnRoboticsWROS/robotiq_description)  
    *Robotiq package description*
-   git clone下來後，將folder name改成robotiq_gripper ，而不是robotiq_description。
+   
+   📌 git clone下來後，將folder name改成robotiq_gripper ，而不是robotiq_description。
 
